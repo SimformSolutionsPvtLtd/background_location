@@ -1,3 +1,8 @@
+# Why We do the Fork?
+
+We have forked this project to add support for the latest Flutter version and to fix some issues that were not addressed in the original repository. Due to version upgrade we have make changes related to gradle versions. This fork repository is used in ED and AGPT projects. In this fork Repo we have fixed issue about deprecation of io.flutter.plugin.common.PluginRegistry.Registrar
+
+
 # Background Location
 
 A Flutter plugin to get location updates in the background for both Android and iOS (Requires iOS 10.0+). Uses `CoreLocation` for iOS and `FusedLocationProvider` for Android
